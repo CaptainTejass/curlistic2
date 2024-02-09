@@ -44,7 +44,7 @@
         "description": "<p>LIMITED STOCK..HURRY !<\/p>",
         "show_description": false,
         "description_style": "body",
-        "collection": "silver-emerald-dangle-earrings",
+        "collection": "the-bonita-bridal-ring",
         "products_to_show": 4,
         "columns_desktop": 4,
         "full_width": false,
@@ -63,10 +63,51 @@
         "padding_top": 36,
         "padding_bottom": 48
       }
+    },
+    "collection_list_Pii7iF": {
+      "type": "collection-list",
+      "blocks": {
+        "featured_collection_JrR7gN": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "the-bonita-bridal-ring"
+          }
+        },
+        "featured_collection_cQ73qc": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": ""
+          }
+        },
+        "featured_collection_kbpPbh": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": ""
+          }
+        }
+      },
+      "block_order": [
+        "featured_collection_JrR7gN",
+        "featured_collection_cQ73qc",
+        "featured_collection_kbpPbh"
+      ],
+      "settings": {
+        "title": "Collections",
+        "heading_size": "h1",
+        "image_ratio": "square",
+        "columns_desktop": 3,
+        "color_scheme": "",
+        "show_view_all": false,
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
     "slideshow",
-    "featured_collection_DaJtyF"
+    "featured_collection_DaJtyF",
+    "collection_list_Pii7iF"
   ]
 }
