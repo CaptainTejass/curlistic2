@@ -44,7 +44,7 @@
         "description": "<p>LIMITED STOCK..HURRY !<\/p>",
         "show_description": false,
         "description_style": "body",
-        "collection": "the-bonita-bridal-ring",
+        "collection": "the-anvesha-necklace",
         "products_to_show": 4,
         "columns_desktop": 4,
         "full_width": false,
@@ -82,7 +82,7 @@
         "featured_collection_kbpPbh": {
           "type": "featured_collection",
           "settings": {
-            "collection": ""
+            "collection": "the-anvesha-necklace"
           }
         }
       },
