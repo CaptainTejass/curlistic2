@@ -68,7 +68,7 @@
         "heading_size": "h1",
         "image_ratio": "square",
         "columns_desktop": 3,
-        "color_scheme": "",
+        "color_scheme": "scheme-2",
         "show_view_all": false,
         "columns_mobile": "2",
         "swipe_on_mobile": false,
@@ -76,73 +76,49 @@
         "padding_bottom": 36
       }
     },
-    "featured_product_KWnmiE": {
-      "type": "featured-product",
+    "image_with_text_DWjzUz": {
+      "type": "image-with-text",
       "blocks": {
-        "text_7ELXMN": {
+        "heading_AFXMLd": {
+          "type": "heading",
+          "settings": {
+            "heading": "SILVER & DIAMOND MOON SET",
+            "heading_size": "h2"
+          }
+        },
+        "text_HbkAUt": {
           "type": "text",
           "settings": {
-            "text": "{{ section.settings.product.vendor }}",
-            "text_style": "uppercase"
+            "text": "<ul><li><strong>Diamond Ring In 18Kt Yellow Gold with Diamonds (0.1010 Ct)<\/strong><\/li><li><strong>Made in IRELAND<\/strong><\/li><li><strong>all sizes available<\/strong><\/li><\/ul><p><strong>CERTIFICATE OF AUTHENTICITY<\/strong><\/p><h3><strong>Price : 17,00,999 INR<\/strong><\/h3><p><\/p>",
+            "text_style": "body"
           }
         },
-        "title_JU9GhT": {
-          "type": "title",
+        "button_BJHied": {
+          "type": "button",
           "settings": {
-            "heading_size": "h1"
-          }
-        },
-        "price_jKP3Lh": {
-          "type": "price",
-          "settings": {
-          }
-        },
-        "variant_picker_GULtGn": {
-          "type": "variant_picker",
-          "settings": {
-            "picker_type": "button",
-            "swatch_shape": "circle"
-          }
-        },
-        "quantity_selector_dNph48": {
-          "type": "quantity_selector",
-          "settings": {
-          }
-        },
-        "buy_buttons_6CMHjU": {
-          "type": "buy_buttons",
-          "settings": {
-            "show_dynamic_checkout": true,
-            "show_gift_card_recipient": true
-          }
-        },
-        "share_XLpANE": {
-          "type": "share",
-          "settings": {
-            "share_label": "Share"
+            "button_label": "BUY",
+            "button_link": "",
+            "button_style_secondary": true
           }
         }
       },
       "block_order": [
-        "text_7ELXMN",
-        "title_JU9GhT",
-        "price_jKP3Lh",
-        "variant_picker_GULtGn",
-        "quantity_selector_dNph48",
-        "buy_buttons_6CMHjU",
-        "share_XLpANE"
+        "heading_AFXMLd",
+        "text_HbkAUt",
+        "button_BJHied"
       ],
       "settings": {
-        "product": "",
-        "color_scheme": "scheme-2",
-        "secondary_background": false,
-        "media_size": "small",
-        "constrain_to_viewport": true,
-        "media_fit": "contain",
-        "media_position": "left",
-        "image_zoom": "lightbox",
-        "hide_variants": false,
-        "enable_video_looping": false,
+        "image": "shopify:\/\/shop_images\/all.png",
+        "height": "medium",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "section_color_scheme": "scheme-2",
+        "color_scheme": "scheme-1",
+        "image_behavior": "zoom-in",
+        "mobile_content_alignment": "left",
         "padding_top": 36,
         "padding_bottom": 36
       }
@@ -151,6 +127,6 @@
   "order": [
     "slideshow",
     "collection_list_Pii7iF",
-    "featured_product_KWnmiE"
+    "image_with_text_DWjzUz"
   ]
 }
