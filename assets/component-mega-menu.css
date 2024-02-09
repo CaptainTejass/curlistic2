@@ -24,6 +24,7 @@
 
 .header-wrapper--border-bottom .mega-menu__content {
   border-top: 0;
+  margin:auto;
 }
 
 .js .mega-menu__content {
