@@ -64,7 +64,7 @@
         "featured_collection_kbpPbh"
       ],
       "settings": {
-        "title": "Collections",
+        "title": "NEWEST ARRIVALS !",
         "heading_size": "h1",
         "image_ratio": "square",
         "columns_desktop": 3,
@@ -109,7 +109,7 @@
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/all.png",
-        "height": "medium",
+        "height": "small",
         "desktop_image_width": "medium",
         "layout": "image_first",
         "desktop_content_position": "top",
